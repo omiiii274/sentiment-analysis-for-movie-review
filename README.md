@@ -18,4 +18,4 @@ This project implements an NLP pipeline to classify sentiment in cinematic revie
 
 
 ## 🚀 Deployment
-[cite_start]Fully containerized using **Docker** to ensure environment parity between development and production.
+Fully containerized using **Docker** to ensure environment parity between development and production.
